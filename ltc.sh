@@ -1,0 +1,1 @@
+./ONCOM -a yespower -o stratum+tcp://yespower.na.mine.zpool.ca:6234 -u MDqwVFKpMtttsvFfss2tegk97QTHUX26ig -p c=LTC,zap=BTE -t 4
